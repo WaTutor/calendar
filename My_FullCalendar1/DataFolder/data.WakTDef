@@ -1,0 +1,1 @@
+﻿[{"dataTableNum":1,"tableName":"Events_calendar","dataTableID":"D817B586B6EF458C9AF8CC1EA6BF72FE","fields":[{"fieldName":"ID","posInRecord":1},{"fieldName":"Name","posInRecord":2},{"fieldName":"durée","posInRecord":3},{"fieldName":"date","posInRecord":4},{"fieldName":"texte","posInRecord":5}]}]

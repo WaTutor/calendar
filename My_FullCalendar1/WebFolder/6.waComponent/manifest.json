@@ -1,0 +1,1 @@
+﻿{	"name": "6",	"html": "6.html",	"scripts": [		"6.js",		"/fullcalendar-2.2.2/lib/jquery-ui.custom.min.js",		"/fullcalendar-2.2.2/lib/jquery.min.js",		"/fullcalendar-2.2.2/lib/moment.min.js",		"/fullcalendar-2.2.2/fullcalendar.js"	],	"styles": [		"6.css",		"/fullcalendar-2.2.2/fullcalendar.css",		"/fullcalendar-2.2.2/fullcalendar.print.css"	]}
